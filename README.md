@@ -26,7 +26,7 @@ for generating Personal Access Token:
 9) Copy Token
 
 example:
-$ git push
+git push
 Username: your_username
 Password: your_token
 
